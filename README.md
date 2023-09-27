@@ -8,8 +8,9 @@ I aim to one day be an active contributor of one or more OSS projects that I lik
 ##
 
 ### Programming
-Currently developing backend code in Elixir ![elixir_logo_20px](https://github.com/nickfanelli/nickfanelli/assets/7491638/9d4f0fcb-89cc-403f-9b3e-bb67d936922d) for [SumUp](https://github.com/sumup)\
+Currently developing backend code in Elixir ![elixir_logo_20px](https://github.com/nickfanelli/nickfanelli/assets/7491638/0d86685d-605a-42ad-88b4-f1712d41a499) for [SumUp](https://github.com/sumup)\
 ... and learning some Phoenix and Erlang along the way.
+
 
 My previous focus / works were with:
  - Java (non-professionally) ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/assets/7491638/00585edb-b348-4cc1-8400-eaa2288fe1b9)
