@@ -9,18 +9,23 @@ I aim to one day be an active contributor of one or more OSS projects that I lik
 
 ##
 ### Programming
-Currently developing backend code in Elixir ![elixir_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/elixir_logo_20px.png) for [SumUp](https://github.com/sumup)\
+Currently developing backend code in Elixir <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/elixir_logo_20px.png" title="Elixir" alt="Elixir"/> for [SumUp](https://github.com/sumup)\
 ... and learning some Phoenix and Erlang along the way.
 
 
 My previous focus / works were with:
- - Java (non-professionally) ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png)
+ - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png" title="Java" alt="Java"/> (non-professionally)
+ <!-- Java ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png) -->
 
- - Kotlin (professionally, for a little) ![kotlin_logo_16px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/kotlin_logo_16px.png) 
+ - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/kotlin_logo_16px.png" title="Kotlin" alt="Kotlin"/> (professionally, for a little) 
+ <!-- Kotlin ![kotlin_logo_16px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/kotlin_logo_16px.png) -->
 
- - C (non-professionally) ![c_logo_14_15px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png)
+ - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png" title="C" alt="C"/> (non-professionally)
+ <!-- C ![c_logo_14_15px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png) -->
+
 
 I can read code fairly well in these three, but wouldn't consider myself fluent with developing in either of them.
+
 
 ### Languages
  - Fluently: Portuguese (🇧🇷), English (🇺🇸)
@@ -28,8 +33,7 @@ I can read code fairly well in these three, but wouldn't consider myself fluent 
  - Beginner: Italian (🇮🇹)
 
 
-##
-
+<hr>
 <!-- footer -->
 <br />
 
