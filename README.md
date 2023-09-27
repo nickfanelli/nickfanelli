@@ -32,12 +32,17 @@ I can read code fairly well in these three, but wouldn't consider myself fluent 
  - Advanced: Spanish (🇪🇸 / 🇦🇷)
  - Beginner: Italian (🇮🇹)
 
-
-<hr>
 <!-- footer -->
+<hr>
 <br />
+<a target="_blank" rel="external" href="https://www.linkedin.com/in/nicholasfanelli"> <img height="24" align="center" src="https://github.com/nickfanelli/nickfanelli/assets/7491638/98daa1b2-388d-4b36-8b73-e61ca26d0cac"> </a>
+&nbsp;
+<a target="_blank" rel="external" href="https://about.me/nicholasfanelli"> <img height="26" align="center" src="https://github.com/nickfanelli/nickfanelli/assets/7491638/540f0865-add5-4e7c-b5f0-8de97e6a0b07"> </a>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) nicholasfanelli](https://www.linkedin.com/in/nicholasfanelli) 
+
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) nicholasfanelli](https://www.linkedin.com/in/nicholasfanelli) -->
+<!-- ![about_me_logo](https://github.com/nickfanelli/nickfanelli/assets/7491638/540f0865-add5-4e7c-b5f0-8de97e6a0b07) -->
+
 
 
 <!--
