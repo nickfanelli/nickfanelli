@@ -21,9 +21,10 @@ My previous focus / works were with:
 I can read code fairly well in these three, but wouldn't consider myself fluent with developing in either of them.
 
 ### Languages
- - Fluently: Portugue (🇧🇷), English (🇺🇸)
+ - Fluently: Portuguese (🇧🇷), English (🇺🇸)
  - Advanced: Spanish (🇪🇸 / 🇦🇷)
  - Beginner: Italian (🇮🇹)
+ - 
 <!--
 **nickfanelli/nickfanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
