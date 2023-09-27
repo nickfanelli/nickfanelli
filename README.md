@@ -1,12 +1,13 @@
 ## Howdy! 🙋‍♂️ I'm Nick. 
 
-I don't have anything "special" to share here, as of yet. 
+I live by the mantra "_Be the change you want to see in the world._" (Mahatma Ghandi)
+
+There's nothing "special" I can share here, as of yet. 
 What I can say, for sure, is that I'm a **very** curious person. I enjoy digging deep and getting to understand how things really work, in as much detail as possible.
 
 I aim to one day be an active contributor of one or more OSS projects that I like/use.
 
 ##
-
 ### Programming
 Currently developing backend code in Elixir ![elixir_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/elixir_logo_20px.png) for [SumUp](https://github.com/sumup)\
 ... and learning some Phoenix and Erlang along the way.
@@ -25,7 +26,16 @@ I can read code fairly well in these three, but wouldn't consider myself fluent 
  - Fluently: Portuguese (🇧🇷), English (🇺🇸)
  - Advanced: Spanish (🇪🇸 / 🇦🇷)
  - Beginner: Italian (🇮🇹)
- - 
+
+
+##
+
+<!-- footer -->
+<br />
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) nicholasfanelli](https://www.linkedin.com/in/nicholasfanelli) 
+
+
 <!--
 **nickfanelli/nickfanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
