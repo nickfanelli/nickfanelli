@@ -1,4 +1,4 @@
-## Howdy! 🙋‍♂️ I'm Nick. 
+## Howdy, fellow &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  &nbsp; 🙋‍♂️ &nbsp; I'm Nick. 
 
 I live by the mantra "_Be the change you want to see in the world._" (Mahatma Ghandi)
 
