@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy! 👋  I'm Nick.
+
+I don't have anything "special" to share here, as of yet. But I aim to contribute more and more as time goes by.
 
 <!--
 **nickfanelli/nickfanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
