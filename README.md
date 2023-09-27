@@ -8,16 +8,16 @@ I aim to one day be an active contributor of one or more OSS projects that I lik
 ##
 
 ### Programming
-Currently developing backend code in Elixir ![elixir_logo_20px](https://github.com/nickfanelli/nickfanelli/assets/7491638/0d86685d-605a-42ad-88b4-f1712d41a499) for [SumUp](https://github.com/sumup)\
+Currently developing backend code in Elixir ![elixir_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/elixir_logo_20px.png) for [SumUp](https://github.com/sumup)\
 ... and learning some Phoenix and Erlang along the way.
 
 
 My previous focus / works were with:
- - Java (non-professionally) ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/assets/7491638/00585edb-b348-4cc1-8400-eaa2288fe1b9)
+ - Java (non-professionally) ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png)
 
- - Kotlin (professionally, for a little) ![kotlin_logo_16px](https://github.com/nickfanelli/nickfanelli/assets/7491638/d8b32196-c34f-4c0f-9a2c-b8e70305ae1d) 
+ - Kotlin (professionally, for a little) ![kotlin_logo_16px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/kotlin_logo_16px.png) 
 
- - C (non-professionally) ![c_logo_14_15px](https://github.com/nickfanelli/nickfanelli/assets/7491638/1ed16165-31cf-4a16-9b05-deb2b5ac6e1e)
+ - C (non-professionally) ![c_logo_14_15px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png)
 
 I can read code fairly well in these three, but wouldn't consider myself fluent with developing in either of them.
 
