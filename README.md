@@ -14,13 +14,13 @@ Until recently, I was developing backend code in Elixir <img src="https://github
 
 
 My previous focus / works were with:
- - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png" title="Java" alt="Java"/> (non-professionally)
- <!-- Java ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png) -->
-
  - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/kotlin_logo_16px.png" title="Kotlin" alt="Kotlin"/> (professionally, for a little) 
  <!-- Kotlin ![kotlin_logo_16px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/kotlin_logo_16px.png) -->
+ 
+ - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png" title="Java" alt="Java"/> (professionally, during internship)
+ <!-- Java ![java_logo_20px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/java_logo_20px.png) -->
 
- - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png" title="C" alt="C"/> (non-professionally)
+ - <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png" title="C" alt="C"/> (professionally, during internship)
  <!-- C ![c_logo_14_15px](https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/c_logo_14_15px.png) -->
 
 
