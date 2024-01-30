@@ -9,8 +9,8 @@ I aim to one day be an active contributor of one or more OSS projects that I lik
 
 ##
 ### Programming
-Currently developing backend code in Elixir <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/elixir_logo_20px.png" title="Elixir" alt="Elixir"/> for [SumUp](https://github.com/sumup)\
-... and learning some Phoenix and Erlang along the way.
+Until recently, I was developing backend code in Elixir <img src="https://github.com/nickfanelli/nickfanelli/blob/main/priv/logos/elixir_logo_20px.png" title="Elixir" alt="Elixir"/> for [SumUp](https://github.com/sumup)\
+... and learning some Phoenix, Erlang, a bit of Python (ETL with Airflow) along the way.
 
 
 My previous focus / works were with:
